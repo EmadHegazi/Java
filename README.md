@@ -29,5 +29,5 @@ Steps are the following:
 
 5. Open [http://localhost:8080/devopsarea-1.0/](http://localhost:8080/devopsarea-1.0/) in your browser and see the result.
 
-Note : if you will use ansible you could do the following command (Run command as user Ansible ) test2--
+Note : if you will use ansible you could do the following command (Run command as user Ansible ) test2=--
 # sudo runuser -l  ansible  -c 'ansible-playbook deploy-playbook.yml'
